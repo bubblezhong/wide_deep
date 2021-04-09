@@ -1,5 +1,9 @@
+我的新的wide and deep 测试
+
 # Wide and Deep Learning for CTR Prediction in tensorflow
+
 ## Overview
+
 A general **Wide and Deep Joint Learning** Framework. 
 Deep part can be a simple Dnn, Dnn Variants(ResDnn, DenseDnn), MultiDnn 
 or even combine with Cnn (Dnn-Cnn).
@@ -73,7 +77,5 @@ Run TensorBoard to inspect the details about the graph and training progression.
 
 ```
 tensorboard --logdir=./model/wide_deep
+
 ```
-
-
-
